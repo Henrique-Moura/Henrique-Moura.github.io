@@ -23,6 +23,7 @@ body {
   display: flex;
   background-color: cadetblue;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .nav-header {

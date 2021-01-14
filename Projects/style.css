@@ -37,9 +37,10 @@ header {
   padding: 1em;
   width: 40%;
   line-height: 1.4em;
-  height: 15em;
+  min-height: 15em;
 }
 
 .container-projects div h1 {
   margin-bottom: 1em;
 }
+
