@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-image: linear-gradient(to bottom, #5cd1d9, #348499);
+  height: 100vh;
+}
+
+.header {
+  display: flex;
+  background-color: cadetblue;
+  align-items: center;
+}
+
+.nav-header {
+  display: flex;
+}
+
+.nav-header div {
+  display: flex;
+  margin: auto 1em;
+}
+
+.trybe-logo {
+  max-width: 60px;
+}
