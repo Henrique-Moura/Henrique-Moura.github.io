@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(253, 251, 251);
+}
+#cabecalho{
+    top: 0px;
+    width: 98%;
+    background-color: aliceblue;
+    border: 1px solid rgb(116, 236, 116);
+    margin: auto;
+    position: fixed;
+}
+#titulo{
+    text-align: center;
+    
+}
+#minha_foto{
+    padding-top: 12em;   
+}
+#licoes_aprendidas{
+    
+}
+#licoes_a_aprender{
+
+}
+#rodape{
+    
+}
+header h1{
+    
+}
+header#cabecalho{
+    
+}
+ul li{
+    display: inline-block;
+    padding: 1em;
+    border: 1px solid gray;
+    border-radius: 12px;
+}
