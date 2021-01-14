@@ -3,6 +3,16 @@
   margin: 0px;
   padding: 0px;
 }
+a {
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 1.5em;
+  opacity: 0.8;
+}
+
+a:hover {
+  opacity: 1.0;
+}
 
 body {
   background-image: linear-gradient(to bottom, #5cd1d9, #348499);
