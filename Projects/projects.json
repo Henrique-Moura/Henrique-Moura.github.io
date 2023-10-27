@@ -1,0 +1,12 @@
+[
+    {
+      "name": "Lessons Learned",
+      "description": "Descrição da primeira lição.",
+      "href": "url-1"
+    },
+    {
+      "name": "Outra Lição",
+      "description": "Descrição de outra lição.",
+      "href": "url-2"
+    }
+]
